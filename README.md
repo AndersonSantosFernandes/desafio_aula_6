@@ -1,0 +1,2 @@
+O desafio consiste em resolver um problema complexo utilizando tres funções
+onde o problema deve ser decomposto em tres partes e cada função deve ser responsável por uma delas, exibindo o resultado em seguida através do console ou alert.
